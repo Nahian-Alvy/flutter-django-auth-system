@@ -26,7 +26,7 @@ This application supports **Android, iOS, and Web** from a single codebase.
 - **[Django](https://www.djangoproject.com/)** – High-level Python web framework.
 - **[Django REST Framework](https://www.django-rest-framework.org/)** – Toolkit for building Web APIs.
 - **[Simple JWT](https://django-rest-framework-simplejwt.readthedocs.io/en/latest/)** – JWT authentication.
-- **SQLite** – Development database.
+
 
 ---
 
@@ -40,7 +40,7 @@ This application supports **Android, iOS, and Web** from a single codebase.
 
 ---
 
-### **1️⃣ Backend Setup (Django)**
+### ** Backend Setup (Django)**
 
 ```bash
 Clone the repository
@@ -60,7 +60,7 @@ python manage.py runserver
 ```
 
 
-### **2️⃣ Frontend Setup (Flutter)**
+### ** Frontend Setup (Flutter)**
 ```bash
 # 1. Navigate to the Flutter project folder
 cd ../my_app
@@ -71,5 +71,18 @@ flutter pub get
 # 3. Run the app
 flutter run
 ```
-📜 License
-This project is licensed under the MIT License.
+### **Login Page After Running ** 
+```bash
+flutter run
+```
+![Login Page](screenshot/login.png)
+
+### **Home Page After Successfully Login **
+![Home Page](screenshot/home.png)
+
+### **Register Page **
+![Home Page](screenshot/register.png)
+
+### **Backend Server Api **
+![Home Page](screenshot/api.png)
+
