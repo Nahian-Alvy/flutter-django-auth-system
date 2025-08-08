@@ -43,11 +43,11 @@ This application supports **Android, iOS, and Web** from a single codebase.
 ### ** Backend Setup (Django)**
 
 ```bash
-Clone the repository
+*Clone the repository
 git clone https://github.com/Nahian-Alvy/flutter-django-auth-system.git
 cd flutter-django-auth-system/full_project
 
-Create & activate a virtual environment
+*Create & activate a virtual environment
 python -m venv venv
 # On Windows:
 venv\Scripts\activate
@@ -61,6 +61,7 @@ python manage.py runserver
 
 
 ### ** Frontend Setup (Flutter)**
+## separate my_app folder and run it in different directory
 ```bash
 # 1. Navigate to the Flutter project folder
 cd ../my_app
